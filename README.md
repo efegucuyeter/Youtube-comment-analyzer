@@ -97,7 +97,7 @@ This project was made possible with the help of the following amazing libraries 
 4-Visualize the Data: Click the "Visualize Results" button to generate graphical representations (pie chart and bar chart) of the analysis.
 
 ![Ekran görüntüsü 2025-01-01 171311](https://github.com/user-attachments/assets/ca3c26db-144f-4696-b437-fe690c5e12e7)
----
+Visualize Example
 ![Figure_1](https://github.com/user-attachments/assets/d2798bed-aca0-4ffc-b362-5b387195078c)
 
   
