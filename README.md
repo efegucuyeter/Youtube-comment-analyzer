@@ -77,7 +77,7 @@ This project was made possible with the help of the following amazing libraries 
 - **[youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader)**: A lightweight library for fetching YouTube comments without needing an API. Special thanks to [Egbert Bouman](https://github.com/egbertbouman) for creating this tool.
 - **[Transformers](https://github.com/huggingface/transformers)**: A powerful library by [Hugging Face](https://huggingface.co/) for state-of-the-art NLP models. Special thanks to their team for providing accessible AI tools.
 
-
+---
 
 ## Example
 1-Enter the Link: Provide the YouTube video link in the designated input field and click the marked button to fetch comments.
