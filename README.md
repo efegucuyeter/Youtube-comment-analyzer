@@ -80,5 +80,24 @@ This project was made possible with the help of the following amazing libraries 
 
 
 ## Example
+1-Enter the Link: Provide the YouTube video link in the designated input field and click the marked button to fetch comments.
+
+![Ekran görüntüsü 2025-01-01 170446](https://github.com/user-attachments/assets/d415be9d-fe19-4954-bd92-5905ce7c590f)
+
+2-Analyze the Comments: Click the "Analyze Comments" button to process the fetched comments for sentiment and topic classification.
+
+![Ekran görüntüsü 2025-01-01 170635](https://github.com/user-attachments/assets/7b4fc9e9-6808-4fbd-99cb-2ed7235c8ac3)
+
+
+3-Save to Excel: Use the "Save to Excel" button to export the analyzed data into an Excel file.
+
+![Ekran görüntüsü 2025-01-01 170800](https://github.com/user-attachments/assets/485f348e-44b7-4454-a993-bf4578ddabae)
+
+
+4-Visualize the Data: Click the "Visualize Results" button to generate graphical representations (pie chart and bar chart) of the analysis.
+
+![Ekran görüntüsü 2025-01-01 171311](https://github.com/user-attachments/assets/ca3c26db-144f-4696-b437-fe690c5e12e7)
+---
+![Figure_1](https://github.com/user-attachments/assets/d2798bed-aca0-4ffc-b362-5b387195078c)
 
   
