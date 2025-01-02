@@ -21,7 +21,7 @@ This project is a YouTube Comment Analysis Application that provides functionali
 1- Clone the Repository
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/efegucuyeter/Youtube-comment-analyzer.git
 ```
 
 2- Navigate to the project directory:
